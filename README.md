@@ -1,4 +1,4 @@
-# Chat App Readme
+# Letstalkk Readme
 ## Introduction
 This is a chat app developed in Kotlin that aims to bridge the gap between the features of Discord and the light and easy-to-navigate user interface of WhatsApp. Currently, only the OTP login and user profile push functionalities have been implemented.
 
